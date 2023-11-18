@@ -1,0 +1,10 @@
+{
+    "prettier.prettierPath": "./node_modules/prettier",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.organizeImports": true
+    },
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+  }
